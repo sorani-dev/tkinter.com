@@ -1,4 +1,3 @@
-import weakref
 from pathlib import Path
 from tkinter import END, Label
 
