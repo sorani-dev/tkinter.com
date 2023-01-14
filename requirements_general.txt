@@ -6,5 +6,6 @@ pandas==1.5.2
 Pillow==9.3.0
 pypdf==3.2.1
 PyPDF2==3.0.1
+python-whois==0.8.0
 rembg==2.0.30
 ttkthemes==3.2.2

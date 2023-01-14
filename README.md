@@ -13,3 +13,4 @@
 5. How To Create Custom Widget Styles - Tkinter Projects 5
 6. How To Extract Text From PDF Files - Tkinter Projects 6
 7. Image Background Remover App - Tkinter Projects 7
+8. Domain Name Lookup Tool - Tkinter Projects 8
