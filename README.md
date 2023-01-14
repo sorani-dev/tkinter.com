@@ -14,3 +14,4 @@
 6. How To Extract Text From PDF Files - Tkinter Projects 6
 7. Image Background Remover App - Tkinter Projects 7
 8. Domain Name Lookup Tool - Tkinter Projects 8
+9. Build A Spell Checker App - Tkinter Projects 9
