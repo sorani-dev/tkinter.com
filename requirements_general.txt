@@ -32,3 +32,6 @@ pypng==0.20220715.0
 
 # Decode QR Code
 pyzbar==0.1.9
+
+# Emojis
+emoji==2.2.0
