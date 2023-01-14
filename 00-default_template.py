@@ -4,8 +4,8 @@ from tkinter import Tk
 # Variables 
 # Global Constants
 BASE_PATH: Path = Path(__file__).parent.resolve()
-TITLE:str = "Default Title" 
-DIMENSIONS = "500x350"
+TITLE:str = "Remove Image Background" 
+DIMENSIONS = "500x700"
 
 # Make app
 root:Tk = Tk()
