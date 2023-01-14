@@ -52,7 +52,7 @@ def clear_all() -> None:
     Clear all output of QR code
     """
     my_entry.delete(0, END)
-    my_label.config(text="")
+    my_label.config(image="")
 
 
 
