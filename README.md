@@ -16,3 +16,4 @@
 8. Domain Name Lookup Tool - Tkinter Projects 8
 9. Build A Spell Checker App - Tkinter Projects 9
 10. Build A QR Code Generator App - Tkinter Projects 10
+11. Decode QR Codes - Tkinter Projects 11

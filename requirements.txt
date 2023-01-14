@@ -76,6 +76,7 @@ python-whois==0.8.0
 pytz==2022.7
 PyWavelets==1.4.1
 pywin32==305
+pyzbar==0.1.9
 pyzmq==25.0.0
 regex==2022.10.31
 rembg==2.0.30
