@@ -11,3 +11,4 @@
 3. Open Excel Spreadsheets In Treeview - Tkinter Projects 3
 4. Style And Theme Your App The Easy Way - Tkinter Projects 4
 5. How To Create Custom Widget Styles - Tkinter Projects 5
+6. How To Extract Text From PDF Files - Tkinter Projects 6
