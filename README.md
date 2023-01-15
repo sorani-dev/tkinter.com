@@ -18,3 +18,4 @@
 10. Build A QR Code Generator App - Tkinter Projects 10
 11. Decode QR Codes - Tkinter Projects 11
 12. How To Use Emoji's in Your Tkinter App - Tkinter Projects 12
+13. Count Number Of Files In A Directory - Tkinter Projects 13
