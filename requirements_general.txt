@@ -33,5 +33,8 @@ pypng==0.20220715.0
 # Decode QR Code
 pyzbar==0.1.9
 
-# Emoji s
+# Emojis
 emoji==2.2.0
+
+# Add PNG Image to PDF
+fpdf==1.7.2
