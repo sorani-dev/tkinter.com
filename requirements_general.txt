@@ -38,3 +38,6 @@ emoji==2.2.0
 
 # Add PNG Image to PDF
 fpdf==1.7.2
+
+# TTkBootstrap introduction
+ttkbootstrap==1.10.0
