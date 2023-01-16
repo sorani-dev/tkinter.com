@@ -24,3 +24,4 @@
 16. Modern Labels and Buttons - Tkinter TTKBootstrap 2
 17. Modern Checkbuttons, Toolbuttons, and Togglebuttons - Tkinter TTKBootstrap 3
 18. How To Resize Buttons in TTKBootstrap - Tkinter TTKBootstrap 4
+19. ComboBoxes and Bindings - Tkinter TTKBootstrap 5
