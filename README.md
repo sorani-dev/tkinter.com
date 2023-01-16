@@ -22,3 +22,4 @@
 14. How To Add PNG Image Files To PDF - Tkinter Projects 14
 15. Modern GUI Design with TTKBootstrap - Tkinter TTKBootstrap 1
 16. Modern Labels and Buttons - Tkinter TTKBootstrap 2
+17. Modern Checkbuttons, Toolbuttons, and Togglebuttons - Tkinter TTKBootstrap 3
