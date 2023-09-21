@@ -6,25 +6,26 @@
 
 ## Tkinter Projects
 
-1. BMI Calculator
-2. Magic 8-Ball App - Tkinter Projects 2
-3. Open Excel Spreadsheets In Treeview - Tkinter Projects 3
-4. Style And Theme Your App The Easy Way - Tkinter Projects 4
-5. How To Create Custom Widget Styles - Tkinter Projects 5
-6. How To Extract Text From PDF Files - Tkinter Projects 6
-7. Image Background Remover App - Tkinter Projects 7
-8. Domain Name Lookup Tool - Tkinter Projects 8
-9. Build A Spell Checker App - Tkinter Projects 9
-10. Build A QR Code Generator App - Tkinter Projects 10
-11. Decode QR Codes - Tkinter Projects 11
-12. How To Use Emoji's in Your Tkinter App - Tkinter Projects 12
-13. Count Number Of Files In A Directory - Tkinter Projects 13
-14. How To Add PNG Image Files To PDF - Tkinter Projects 14
-15. Modern GUI Design with TTKBootstrap - Tkinter TTKBootstrap 1
-16. Modern Labels and Buttons - Tkinter TTKBootstrap 2
-17. Modern Checkbuttons, Toolbuttons, and Togglebuttons - Tkinter TTKBootstrap 3
-18. How To Resize Buttons in TTKBootstrap - Tkinter TTKBootstrap 4
-19. ComboBoxes and Bindings - Tkinter TTKBootstrap 5
-20. Entry Widgets With TTKBootstrap - Tkinter TTKBootstrap 6
-21. Floodgauge Progress Bar - Tkinter TTKBootstrap 7
-22. DateEntry Calendar Widget - Tkinter TTKBootstrap 8
+1. Button
+2. BMI Calculator
+3. Magic 8-Ball App - Tkinter Projects 2
+4. Open Excel Spreadsheets In Treeview - Tkinter Projects 3
+5. Style And Theme Your App The Easy Way - Tkinter Projects 4
+6. How To Create Custom Widget Styles - Tkinter Projects 5
+7. How To Extract Text From PDF Files - Tkinter Projects 6
+8. Image Background Remover App - Tkinter Projects 7
+9. Domain Name Lookup Tool - Tkinter Projects 8
+10. Build A Spell Checker App - Tkinter Projects 9
+11. Build A QR Code Generator App - Tkinter Projects 10
+12. Decode QR Codes - Tkinter Projects 11
+13. How To Use Emoji's in Your Tkinter App - Tkinter Projects 12
+14. Count Number Of Files In A Directory - Tkinter Projects 13
+15. How To Add PNG Image Files To PDF - Tkinter Projects 14
+16. Modern GUI Design with TTKBootstrap - Tkinter TTKBootstrap 1
+17. Modern Labels and Buttons - Tkinter TTKBootstrap 2
+18. Modern Checkbuttons, Toolbuttons, and Togglebuttons - Tkinter TTKBootstrap 3
+19. How To Resize Buttons in TTKBootstrap - Tkinter TTKBootstrap 4
+20. ComboBoxes and Bindings - Tkinter TTKBootstrap 5
+21. Entry Widgets With TTKBootstrap - Tkinter TTKBootstrap 6
+22. Floodgauge Progress Bar - Tkinter TTKBootstrap 7
+23. DateEntry Calendar Widget - Tkinter TTKBootstrap 8
