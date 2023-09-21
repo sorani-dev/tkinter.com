@@ -29,3 +29,4 @@
 21. Entry Widgets With TTKBootstrap - Tkinter TTKBootstrap 6
 22. Floodgauge Progress Bar - Tkinter TTKBootstrap 7
 23. DateEntry Calendar Widget - Tkinter TTKBootstrap 8
+24. Frames and Labels with TTKBootstrap - Tkinter TTKBootstrap 9
