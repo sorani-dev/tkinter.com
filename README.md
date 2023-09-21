@@ -26,3 +26,4 @@
 18. How To Resize Buttons in TTKBootstrap - Tkinter TTKBootstrap 4
 19. ComboBoxes and Bindings - Tkinter TTKBootstrap 5
 20. Entry Widgets With TTKBootstrap - Tkinter TTKBootstrap 6
+21. Floodgauge Progress Bar - Tkinter TTKBootstrap 7
