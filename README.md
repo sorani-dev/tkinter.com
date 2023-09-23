@@ -39,3 +39,4 @@
 31. Scrollbars with TTKBootstrap - Tkinter TTKBootstrap 16
 32. Separators and Sizegrips with TTKBootstrap - Tkinter TTKBootstrap 17
 33. Spinboxes with TTKBootstrap - Tkinter TTKBootstrap 18
+34. Treeviews with TTKBootstrap - Tkinter TTKBootstrap 19
