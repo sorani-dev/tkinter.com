@@ -40,3 +40,4 @@
 32. Separators and Sizegrips with TTKBootstrap - Tkinter TTKBootstrap 17
 33. Spinboxes with TTKBootstrap - Tkinter TTKBootstrap 18
 34. Treeviews with TTKBootstrap - Tkinter TTKBootstrap 19
+35. Message Boxes with TTKBootstrap - Tkinter TTKBootstrap 20
