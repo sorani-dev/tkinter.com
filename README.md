@@ -36,3 +36,4 @@
 28. Progress Bars with TTKBootstrap - Tkinter TTKBootstrap 13
 29. Radio Buttons with TTKBootstrap - Tkinter TTKBootstrap 14
 30. Slider / Scales with TTKBootstrap - Tkinter TTKBootstrap 15
+31. Scrollbars with TTKBootstrap - Tkinter TTKBootstrap 16
