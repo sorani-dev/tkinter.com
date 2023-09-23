@@ -38,3 +38,4 @@
 30. Slider / Scales with TTKBootstrap - Tkinter TTKBootstrap 15
 31. Scrollbars with TTKBootstrap - Tkinter TTKBootstrap 16
 32. Separators and Sizegrips with TTKBootstrap - Tkinter TTKBootstrap 17
+33. Spinboxes with TTKBootstrap - Tkinter TTKBootstrap 18
