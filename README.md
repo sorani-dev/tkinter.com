@@ -45,3 +45,4 @@
 37. Scrolled Text Widget!! - Tkinter TTKBootstrap 22
 38. Scrolled Frame Widget! - Tkinter TTKBootstrap 23
 39. Toast Messages with TTKBootstrap - Tkinter TTKBootstrap 24
+40. Icons with TTKBootstrap - Tkinter TTKBootstrap 25
