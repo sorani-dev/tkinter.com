@@ -50,3 +50,7 @@
 39. Toast Messages with TTKBootstrap - Tkinter TTKBootstrap 24
 40. Icons with TTKBootstrap - Tkinter TTKBootstrap 25
 41. Select Fonts With Font Dialog Box - Tkinter TTKBootstrap 26
+
+## Modern Tkinter Design With CustomTkinter
+
+42. Modern GUI Design With CustomTkinter! - Tkinter CustomTkinter 1
