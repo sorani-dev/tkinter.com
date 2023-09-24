@@ -55,3 +55,4 @@
 
 42. Modern GUI Design With CustomTkinter! - Tkinter CustomTkinter 1
 43. Modern Buttons In CustomTkinter - Tkinter CustomTkinter 2
+44. Entry Widgets in CustomTkinter - Tkinter CustomTkinter 3
