@@ -46,3 +46,4 @@
 38. Scrolled Frame Widget! - Tkinter TTKBootstrap 23
 39. Toast Messages with TTKBootstrap - Tkinter TTKBootstrap 24
 40. Icons with TTKBootstrap - Tkinter TTKBootstrap 25
+41. Select Fonts With Font Dialog Box - Tkinter TTKBootstrap 26
