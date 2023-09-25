@@ -57,3 +57,4 @@
 43. Modern Buttons In CustomTkinter - Tkinter CustomTkinter 2
 44. Entry Widgets in CustomTkinter - Tkinter CustomTkinter 3
 45. Check Boxes in CustomTkinter - Tkinter CustomTkinter 4
+46. Combo Boxes in CustomTkinter - Tkinter CustomTkinter 5
