@@ -62,3 +62,4 @@
 47. Progress Bars in CustomTkinter - Tkinter CustomTkinter 6
 48. Radio Buttons in CustomTkinter - Tkinter CustomTkinter 7
 49. Scrollable Frames!! - Tkinter CustomTkinter 8
+50. Segmented Buttons - Tkinter CustomTkinter 9
