@@ -63,3 +63,4 @@
 48. Radio Buttons in CustomTkinter - Tkinter CustomTkinter 7
 49. Scrollable Frames!! - Tkinter CustomTkinter 8
 50. Segmented Buttons - Tkinter CustomTkinter 9
+51. Sliders - Tkinter CustomTkinter 10
