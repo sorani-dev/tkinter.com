@@ -64,3 +64,4 @@
 49. Scrollable Frames!! - Tkinter CustomTkinter 8
 50. Segmented Buttons - Tkinter CustomTkinter 9
 51. Sliders - Tkinter CustomTkinter 10
+52. The Switch Widget! - Tkinter CustomTkinter 11
