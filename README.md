@@ -65,3 +65,4 @@
 50. Segmented Buttons - Tkinter CustomTkinter 9
 51. Sliders - Tkinter CustomTkinter 10
 52. The Switch Widget! - Tkinter CustomTkinter 11
+53. The TabView Widget - Tkinter CustomTkinter 12
