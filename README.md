@@ -69,3 +69,4 @@
 54. The TextBox Widget! - Tkinter CustomTkinter 13
 55. Input Popup Boxes - Tkinter CustomTkinter 14
 56. New Top Level Windows - Tkinter CustomTkinter 15
+57. Custom Fonts Widget - Tkinter CustomTkinter 16

@@ -5,7 +5,7 @@ import customtkinter
 # Variables
 # Global Constants
 BASE_PATH: Path = Path(__file__).parent.resolve()
-TITLE: str = "Input Window"
+TITLE: str = "New Toplevel Window"
 DIMENSIONS = "400x200"
 
 
