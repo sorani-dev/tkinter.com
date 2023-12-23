@@ -72,3 +72,4 @@
 57. Custom Fonts Widget - Tkinter CustomTkinter 16
 58. Images in CustomTkinter - Tkinter CustomTkinter 17
 59. Option Menu - Tkinter CustomTkinter 18
+60. Switching Between Light and Dark Mode - Tkinter CustomTkinter 19
