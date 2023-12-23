@@ -71,3 +71,4 @@
 56. New Top Level Windows - Tkinter CustomTkinter 15
 57. Custom Fonts Widget - Tkinter CustomTkinter 16
 58. Images in CustomTkinter - Tkinter CustomTkinter 17
+59. Option Menu - Tkinter CustomTkinter 18
